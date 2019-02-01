@@ -1,5 +1,8 @@
 # vue-muuri
 
+Example respository to show Vue.js working together with muuri.
+The base was an Vue.js Hello World PWA.
+
 ## Project setup
 
 ```
